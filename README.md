@@ -2,8 +2,8 @@
 
 The collection of Android UI and animation implemention.
 Include View, ListView & RecyclerView, ActionBar, SnackBar ,Menu & Drawer, ViewPager, Gallery, GridView
-, ImageView&Drawable, ProgressBar, TextView, EditText, ScrollView, TimeView, TipView, FlipView, ColorPickView
-, GraphView, Ripple, Dialog, Vector & SVG & path-view, UI style, Theme, Transitions, MaterialDesign View
+, ImageView&Drawable, ProgressBar, Loading View, TextView, EditText, ScrollView, TimeView, TipView, FlipView
+, ColorPickView, GraphView, Ripple, Dialog, Vector & SVG & path-view, UI style, Theme, Transitions, MaterialDesign View
 
 # Category
 
@@ -11,6 +11,7 @@ Include View, ListView & RecyclerView, ActionBar, SnackBar ,Menu & Drawer, ViewP
 
 [SwipeCaptcha](https://github.com/mcxtzhang/SwipeCaptcha):滑动验证码
 
+[Steppers](https://github.com/drozdzynski/Steppers)
 
 
 ## ListView & RecyclerView
@@ -43,9 +44,11 @@ Include View, ListView & RecyclerView, ActionBar, SnackBar ,Menu & Drawer, ViewP
 
 ## SnackBar
 
-## BottomBar
+## Bottom Views 底部栏
 
 [BottomBar](https://github.com/roughike/BottomBar)
+
+[AndroidBottomSheet](https://github.com/michael-rapp/AndroidBottomSheet)
 
 ## Menu & Drawer
 
@@ -68,9 +71,16 @@ Include View, ListView & RecyclerView, ActionBar, SnackBar ,Menu & Drawer, ViewP
 [SnappyImageViewer](https://github.com/nshmura/SnappyImageViewer)
 
 ## ProgressBar
+## Loading View
+
+[MaterialLoadingProgressBar](https://github.com/lsjwzh/MaterialLoadingProgressBar)
+
 ## TextView
 ## EditText
 ## ScrollView
+
+[MaterialScrollBar](https://github.com/turing-tech/MaterialScrollBar)
+
 ## TimeView
 ## TipView
 ## FlipView
@@ -107,6 +117,12 @@ Include View, ListView & RecyclerView, ActionBar, SnackBar ,Menu & Drawer, ViewP
 
 ### 库
 [animate](https://github.com/hitherejoe/animate)
+
+## 其他
+
+### 关于页面：
+
+[about-page](https://github.com/drakeet/about-page)
 
 Thanks for:
 
