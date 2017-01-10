@@ -2,8 +2,8 @@
 
 The collection of Android UI and animation implemention.
 Include View, ListView & RecyclerView, ActionBar, SnackBar ,Menu & Drawer, ViewPager, Gallery, GridView
-, ImageView&Drawable, ProgressBar, Loading View, TextView, EditText, ScrollView, TimeView, TipView, FlipView
-, ColorPickView, GraphView, Ripple, Dialog, Vector & SVG & path-view, UI style, Theme, Transitions, MaterialDesign View
+, ImageView&Drawable, SeekBar, ProgressBar, Loading View, TextView, EditText, ScrollView, TimeView, TipView
+, FlipView, ColorPickView, GraphView, Ripple, Dialog, Vector & SVG & path-view, UI style, Theme, Transitions, MaterialDesign View, Icons, 其他
 
 # Category
 
@@ -52,6 +52,8 @@ Include View, ListView & RecyclerView, ActionBar, SnackBar ,Menu & Drawer, ViewP
 
 ## Menu & Drawer
 
+[MetaballMenu](https://github.com/melvinjlobo/MetaballMenu)
+
 ### 动画菜单
 
 [FlowingDrawer](https://github.com/mxn21/FlowingDrawer)
@@ -70,6 +72,10 @@ Include View, ListView & RecyclerView, ActionBar, SnackBar ,Menu & Drawer, ViewP
 
 [SnappyImageViewer](https://github.com/nshmura/SnappyImageViewer)
 
+## SeekBar
+
+[material-range-bar](https://github.com/oli107/material-range-bar)
+
 ## ProgressBar
 ## Loading View
 
@@ -77,6 +83,9 @@ Include View, ListView & RecyclerView, ActionBar, SnackBar ,Menu & Drawer, ViewP
 
 ## TextView
 ## EditText
+
+[MaterialEditText](https://github.com/rengwuxian/MaterialEditText)
+
 ## ScrollView
 
 [MaterialScrollBar](https://github.com/turing-tech/MaterialScrollBar)
@@ -87,6 +96,9 @@ Include View, ListView & RecyclerView, ActionBar, SnackBar ,Menu & Drawer, ViewP
 ## ColorPickView
 ## GraphView
 ## Ripple
+
+[RippleEffect](https://github.com/traex/RippleEffect)
+
 ## Dialog
 
 [material-dialogs](https://github.com/afollestad/material-dialogs)
@@ -101,6 +113,8 @@ Include View, ListView & RecyclerView, ActionBar, SnackBar ,Menu & Drawer, ViewP
 
 [ArcLayout](https://github.com/florent37/ArcLayout)
 
+[FABRevealLayout](https://github.com/truizlop/FABRevealLayout):A layout to transition between two views using a Floating Action Button as shown in many Material Design concepts
+
 ### 库
 
 [MaterialDesignLibrary](https://github.com/navasmdc/MaterialDesignLibrary)
@@ -108,6 +122,7 @@ Include View, ListView & RecyclerView, ActionBar, SnackBar ,Menu & Drawer, ViewP
 ### FloatingActionButton
 
 [FloatingActionButton](https://github.com/Clans/FloatingActionButton)
+
 ### MD 风格案例
 
 [仿网易音乐app](https://github.com/forezp/banya)
@@ -117,6 +132,10 @@ Include View, ListView & RecyclerView, ActionBar, SnackBar ,Menu & Drawer, ViewP
 
 ### 库
 [animate](https://github.com/hitherejoe/animate)
+
+## Icons
+
+[droidicon](https://github.com/theDazzler/droidicon)
 
 ## 其他
 
