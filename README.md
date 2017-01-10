@@ -7,14 +7,15 @@ Include View, ListView & RecyclerView, ActionBar, SnackBar ,Menu & Drawer, ViewP
 
 # Category
 
-## View
+## View&ViewGroup
 
 [SwipeCaptcha](https://github.com/mcxtzhang/SwipeCaptcha):滑动验证码
 
 
+
 ## ListView & RecyclerView
 
-### swipe&delete
+### 滑动Item删除
 
 [SwipeDelMenuLayout](https://github.com/mcxtzhang/SwipeDelMenuLayout):侧滑菜单，0耦合，支持任意ViewGroup
 
@@ -26,7 +27,7 @@ Include View, ListView & RecyclerView, ActionBar, SnackBar ,Menu & Drawer, ViewP
 
 [RecyclerViewEnhanced](https://github.com/nikhilpanju/RecyclerViewEnhanced)
 
-### swipe&drag
+### 滑动&拖拽
 
 [RecyclerViewUndoSwipe](https://github.com/HoneyNeutrons/RecyclerViewUndoSwipe):Native ItemTouch helper swipe and drag support for RecyclerView with undo action just like in "Do It" app.
 
@@ -35,12 +36,23 @@ Include View, ListView & RecyclerView, ActionBar, SnackBar ,Menu & Drawer, ViewP
 [RecyclerViewSwipeDismiss](https://github.com/CodeFalling/RecyclerViewSwipeDismiss): Swipe to dismiss for RecyclerView.
 
 ## ActionBar
+
+[MaterialSearchView](https://github.com/Mauker1/MaterialSearchView)
+
+[MaterialSearchView](https://github.com/MiguelCatalan/MaterialSearchView)
+
 ## SnackBar
+
+## BottomBar
+
+[BottomBar](https://github.com/roughike/BottomBar)
+
 ## Menu & Drawer
 
 ### 动画菜单
 
 [FlowingDrawer](https://github.com/mxn21/FlowingDrawer)
+[LDrawer](https://github.com/keklikhasan/LDrawer)
 
 ## ViewPager
 ## Gallery
@@ -66,11 +78,35 @@ Include View, ListView & RecyclerView, ActionBar, SnackBar ,Menu & Drawer, ViewP
 ## GraphView
 ## Ripple
 ## Dialog
+
+[material-dialogs](https://github.com/afollestad/material-dialogs)
+
 ## Vector & SVG & path-view
 ## UI style
 ## theme
 ## Transitions
 ## MaterialDesign View
+
+[DiagonalLayout](https://github.com/florent37/DiagonalLayout)
+
+[ArcLayout](https://github.com/florent37/ArcLayout)
+
+### 库
+
+[MaterialDesignLibrary](https://github.com/navasmdc/MaterialDesignLibrary)
+
+### FloatingActionButton
+
+[FloatingActionButton](https://github.com/Clans/FloatingActionButton)
+### MD 风格案例
+
+[仿网易音乐app](https://github.com/forezp/banya)
+
+
+## 动画
+
+### 库
+[animate](https://github.com/hitherejoe/animate)
 
 Thanks for:
 
