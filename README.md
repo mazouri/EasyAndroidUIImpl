@@ -36,6 +36,10 @@ Include View, ListView & RecyclerView, ActionBar, SnackBar ,Menu & Drawer, ViewP
 
 [RecyclerViewSwipeDismiss](https://github.com/CodeFalling/RecyclerViewSwipeDismiss): Swipe to dismiss for RecyclerView.
 
+### Section List
+
+[sectioned-recyclerview](https://github.com/afollestad/sectioned-recyclerview)
+
 ## ActionBar
 
 [MaterialSearchView](https://github.com/Mauker1/MaterialSearchView)
