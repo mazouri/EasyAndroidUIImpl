@@ -48,6 +48,8 @@ Include View, ListView & RecyclerView, ActionBar, SnackBar ,Menu & Drawer, ViewP
 
 ## SnackBar
 
+[FloatActionButtonExpand](https://github.com/fishCoder/FloatActionButtonExpand)
+
 ## Bottom Views 底部栏
 
 [BottomBar](https://github.com/roughike/BottomBar)
@@ -106,6 +108,7 @@ Include View, ListView & RecyclerView, ActionBar, SnackBar ,Menu & Drawer, ViewP
 ## Dialog
 
 [material-dialogs](https://github.com/afollestad/material-dialogs)
+[MaterialDesignDialog](https://github.com/291700351/MaterialDesignDialog)
 
 ## Vector & SVG & path-view
 ## UI style
