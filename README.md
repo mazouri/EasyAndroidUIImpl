@@ -40,6 +40,10 @@ Include View, ListView & RecyclerView, ActionBar, SnackBar ,Menu & Drawer, ViewP
 
 [sectioned-recyclerview](https://github.com/afollestad/sectioned-recyclerview)
 
+### 强大的Adapter(仅需要一个Adapter)
+[DataBindingAdapter](https://github.com/markzhai/DataBindingAdapter)
+[RxRecyclerAdapter](https://github.com/ahmedrizwan/RxRecyclerAdapter)
+
 ## ActionBar
 
 [MaterialSearchView](https://github.com/Mauker1/MaterialSearchView)
