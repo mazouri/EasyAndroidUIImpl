@@ -72,6 +72,13 @@ Include View, Button, ListView & RecyclerView, ActionBar, SnackBar ,Menu & Drawe
 
 [FlowingDrawer](https://github.com/mxn21/FlowingDrawer)
 [LDrawer](https://github.com/keklikhasan/LDrawer)
+[](https://github.com/Yalantis/Side-Menu.Android)
+[](https://github.com/mikepenz/MaterialDrawer)
+[](https://github.com/mmBs/NavigationDrawerSI)
+[](https://github.com/heinrichreimer/material-drawer)
+[](https://github.com/mxn21/FlowingDrawer)
+[](https://github.com/yarolegovich/SlidingRootNav)
+Debug工具[DebugDrawer](https://github.com/palaima/DebugDrawer)
 
 ## ViewPager
 ## Gallery
