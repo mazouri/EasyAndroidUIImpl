@@ -165,6 +165,10 @@ Debug工具[DebugDrawer](https://github.com/palaima/DebugDrawer)
 
 [about-page](https://github.com/drakeet/about-page)
 
+### 类似微信聊天界面
+
+[android IM即时通信之聊天界面UI框架](http://www.jianshu.com/p/4fc79094cc85)
+
 Thanks for:
 
 [android-open-project](https://github.com/Trinea/android-open-project)
