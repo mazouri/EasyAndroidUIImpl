@@ -46,7 +46,35 @@ Include View, Button, ListView & RecyclerView, ActionBar, SnackBar ,Menu & Drawe
 
 ### 强大的Adapter(仅需要一个Adapter)
 [DataBindingAdapter](https://github.com/markzhai/DataBindingAdapter)
+
 [RxRecyclerAdapter](https://github.com/ahmedrizwan/RxRecyclerAdapter)
+
+### 下拉刷新框架
+#### 1.[Phoenix](https://github.com/Yalantis/Phoenix)
+
+[Demo](http://blog.csdn.net/qq347198688/article/details/52518150)
+
+<img src="https://camo.githubusercontent.com/d406ac5a03a2b1fa5cf41fadc8d2408cb8709bdc/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f3132353035362f73637265656e73686f74732f313635303331372f7265616c6573746174652d70756c6c5f312d322d332e676966" width="40%" height="40%">
+
+#### 2.[android-Ultra-Pull-To-Refresh](https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh)
+
+[android-Ultra-Pull-To-Refresh下拉刷新框架使用注意点](http://www.jianshu.com/p/edb2cde8201a)
+
+<img src="https://camo.githubusercontent.com/588a2ef2cdcfb6c71e88437http://www.jianshu.com/p/edb2cde8201a486226dd15605b3/687474703a2f2f737261696e2d6769746875622e71696e6975646e2e636f6d2f756c7472612d7074722f73746f72652d686f7573652d737472696e672d61727261792e676966" width="40%" height="40%">
+
+#### 3.[SwipeRefreshLayout]
+[SwipeRefreshLayout 的基本使用，自动刷新和上拉加载更多](http://blog.csdn.net/da_caoyuan/article/details/53977343)
+
+#### 4.[android-cube-app](https://github.com/liaohuqiu/android-cube-app)
+
+<img src="https://camo.githubusercontent.com/a841fc83f71eb2e3c2438ecf8ca672b280ccb519/687474703a2f2f737261696e2d6769746875622e71696e6975646e2e636f6d2f6c6f61642d6d6f72652f6c6f61642d6d6f72652d666f722d6c6973742d766965772e676966" width="%40" height="40%">
+
+#### 5.[android-Ultra-Pull-To-Refresh-With-Load-More](https://github.com/captainbupt/android-Ultra-Pull-To-Refresh-With-Load-More)
+
+### 下拉刷新实现Demo
+
+[下拉刷新框架实现](http://blog.csdn.net/leehong2005/article/details/12567757)
+
 
 ## ActionBar
 
