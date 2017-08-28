@@ -99,16 +99,30 @@ Include View, Button, ListView & RecyclerView, ActionBar, SnackBar ,Menu & Drawe
 ### 动画菜单
 
 [FlowingDrawer](https://github.com/mxn21/FlowingDrawer)
+
 [LDrawer](https://github.com/keklikhasan/LDrawer)
-[](https://github.com/Yalantis/Side-Menu.Android)
-[](https://github.com/mikepenz/MaterialDrawer)
-[](https://github.com/mmBs/NavigationDrawerSI)
-[](https://github.com/heinrichreimer/material-drawer)
-[](https://github.com/mxn21/FlowingDrawer)
-[](https://github.com/yarolegovich/SlidingRootNav)
+
+[Side-Menu.Android](https://github.com/Yalantis/Side-Menu.Android)
+
+[MaterialDrawer](https://github.com/mikepenz/MaterialDrawer)
+
+[NavigationDrawerSI](https://github.com/mmBs/NavigationDrawerSI)
+
+[SlidingRootNav](https://github.com/heinrichreimer/SlidingRootNav)
+
+[SlidingRootNav](https://github.com/mxn21/SlidingRootNav)
+
+[SlidingRootNav](https://github.com/yarolegovich/SlidingRootNav)
+
 Debug工具[DebugDrawer](https://github.com/palaima/DebugDrawer)
 
 ## ViewPager
+[PagerSlidingTabStrip](https://github.com/jpardogo/PagerSlidingTabStrip)
+
+[SmartTabLayout](https://github.com/ogaclejapan/SmartTabLayout)
+
+[MaterialViewPager](https://github.com/florent37/MaterialViewPager)
+
 ## Gallery
 ## GridView
 ## CardView
